@@ -1,6 +1,6 @@
 # MSXgoauld_tn20k
 
-> [WARNING]
+> [!WARNING]
 > This repository is outdated and kept for reference only. Last version is here: https://github.com/jabadiagm/MSXgoauldSD_tn20k
 >
 
